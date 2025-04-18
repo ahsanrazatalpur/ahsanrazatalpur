@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahsan Raza Talpue and I'm a third year Computer Science Student, from laar campus Badin ,University Of Sindh Jamshoro</h2>
+<h2 align="left">Hi 👋! My name is Ahsan Raza Talpur and I'm a third year student of computer science, from Badin</h2>
 
 ###
 
