@@ -47,4 +47,3 @@
 
 
 ###
-![snake gif](https://github.com/ahsanrazatalpur/ahsanrazatalpur/blob/output/github-contribution-grid-snake.svg)
